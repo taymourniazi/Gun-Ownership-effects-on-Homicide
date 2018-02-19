@@ -4,6 +4,10 @@ Gun Ownership effects on Homicide
 
 The dataset is compiled from the U.S. Census Bureau USA Counties Database and can be downloaded at http://www.census.gov/support/USACdataDownloads.html. Variables include county- level measures of demographics, the age distribution, the income distribution, crime rates, federal spending, home ownership rates, house prices, educational attainment, voting paterns, employment statistics, and migration rates.
 
+Rows: 3900
+variables: 415
+
+
 
 Census Variables :
 

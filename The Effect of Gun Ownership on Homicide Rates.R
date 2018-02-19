@@ -26,9 +26,6 @@ rm(list = ls())
 # Set Random Number Generator.
 set.seed(1)
 
-# Set Directory
-setwd("/Users/VC/Dropbox/MITReg/CASES/case5")
-
 # Load Functions from External Files.
 source("Cond-comp.R")  
 source("Functions.R")  

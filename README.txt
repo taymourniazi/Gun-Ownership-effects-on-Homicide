@@ -4,6 +4,12 @@ Gun Ownership effects on Homicide
 
 The dataset is compiled from the U.S. Census Bureau USA Counties Database and can be downloaded at http://www.census.gov/support/USACdataDownloads.html. Variables include county- level measures of demographics, the age distribution, the income distribution, crime rates, federal spending, home ownership rates, house prices, educational attainment, voting paterns, employment statistics, and migration rates.
 
+OBJECTIVE:
+Estimates the effect of gun ownership on the homicide rate using double machine learning methods. Several methods are used to partial out the outcome and treatment variable from the control variables. The estimates are calculated by regressingpartialled out outcome variable on partialled out treatment variable.
+
+
+
+
 Rows: 3900
 variables: 415
 
